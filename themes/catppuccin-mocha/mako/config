@@ -1,0 +1,12 @@
+font=JetBrains Mono 10
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#cba6f7
+progress-color=over #45475a
+border-size=2
+border-radius=6
+default-timeout=6000
+
+[urgency=high]
+border-color=#f38ba8
+default-timeout=0
